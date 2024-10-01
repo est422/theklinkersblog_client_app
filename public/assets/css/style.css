@@ -3406,10 +3406,11 @@ h1, h2, h3, h4, h5, h6 {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #313030;
+/*   color: #313030; */
+  color: #ffffff;
   font-size: 14px;
   background: #fff;
-  padding: 40px 0 10px 0;
+  padding: 60px 0 30px 0;
   display: 'block';
   height: '60px';
   width: '100%';
@@ -3417,7 +3418,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top {
-  padding: 40px 0 10px 0;
+  padding: 60px 0 30px 0;
   background: #fff9f7;
 
 }
