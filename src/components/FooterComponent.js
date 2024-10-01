@@ -79,11 +79,11 @@ function FooterComponent () {
                 </div>
             </div>
 
-                <div className="container">
-                <div className="copyright text-center">
-                    <strong><span>Design By</span></strong> Michael Zerihun
-                </div>
-                </div>
+                // <div className="container">
+                // <div className="copyright text-center">
+                //     <strong><span>Design By</span></strong> Michael Zerihun
+                // </div>
+                // </div>
         </footer>
         </>
     )
